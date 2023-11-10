@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\KIManifest.xml
+E:\KI\KI\bin\Debug\KI.debugapp

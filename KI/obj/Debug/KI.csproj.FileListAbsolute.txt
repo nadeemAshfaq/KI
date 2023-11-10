@@ -1,0 +1,2 @@
+E:\KI\KI\obj\Debug\KI.csproj.AssemblyReference.cache
+E:\KI\KI\obj\Debug\KI.csproj.CoreCompileInputs.cache

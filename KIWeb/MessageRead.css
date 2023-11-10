@@ -1,0 +1,22 @@
+﻿/*Page-specific styling */
+
+.padding {
+    padding: 15px;
+}
+
+#nav {
+    background-color: #1d7acb;
+    color: white;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    #button .md-button {
+        color: white;
+        background: #1d7acb;
+        width: 100%
+    }
